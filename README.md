@@ -6,19 +6,19 @@ Delving into the illustrious Titanic Disaster Dataset through the application of
 The application of intricate algorithms, coupled with the systematic exploration of the dataset, underscores the sophisticated nature of the project. By emphasizing accessibility, the tutorial is designed to empower newcomers with the foundational knowledge necessary to navigate Kaggle competitions and embark on their Machine Learning journey with confidence. This comprehensive approach aims to demystify the intricacies of data science, making it an engaging and educational experience for individuals at the onset of their analytical expedition.
 
 # Dependencies:
-Python3
-Numpy
-Pandas
-Matplotlib
-Supervised Learning
-Machine Learning Algorithm
-Classification Algorithms
+- Python3
+- Numpy
+- Pandas
+- Matplotlib
+- Supervised Learning
+- Machine Learning Algorithm
+- Classification Algorithms
 
 # This Notebook will show basic examples of:
-Data Handling
-Importing Data with Pandas
-Cleaning Data
-Exploring Data through Visualizations with Matplotlib
+- Data Handling
+- Importing Data with Pandas
+- Cleaning Data
+- Exploring Data through Visualizations with Matplotlib
 
 # Data Analysis:
 Supervised Machine Learning Techniques used:
