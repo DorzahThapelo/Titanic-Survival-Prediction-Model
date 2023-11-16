@@ -27,6 +27,44 @@ Supervised Machine Learning Techniques used:
 - Support Vector Machines
 - Gaussian Naive Bayes
 
+## Overview
+
+The sinking of the Titanic is a tragic event in history, and this project aims to analyze and predict the factors that influenced survival. The main focus is on building a robust predictive model using Python, leveraging popular machine learning libraries.
+
+## Features
+
+- **Data Exploration:** Dive into the dataset to understand the characteristics of the passengers, their demographics, and the distribution of survival outcomes.
+
+- **Preprocessing:** Cleanse and preprocess the data to handle missing values, outliers, and ensure it is suitable for training machine learning models.
+
+- **Feature Engineering:** Extract valuable insights from the dataset by creating new features and transforming existing ones to enhance the model's predictive power.
+
+- **Machine Learning Models:** Implement various machine learning algorithms, such as decision trees, random forests, and logistic regression, to predict survival outcomes.
+
+- **Evaluation:** Assess the performance of the models using metrics like accuracy, precision, recall, and F1-score to ensure the reliability of predictions.
+
+## Getting Started
+
+1. Clone the repository to your local machine.
+   ```bash
+   git clone https://github.com/DorzahThapelo/Titanic-Survival-Prediction-Model.git
+   ```
+
+2. Install the required dependencies.
+   ```bash
+   pip install -r requirements.txt
+   ```
+
+3. Explore the Jupyter notebooks in the `notebooks` directory to understand the step-by-step process of building the Titanic Survival Prediction Model.
+
+4. Run the provided Python scripts for data preprocessing, model training, and evaluation.
+
+## Contributing
+
+Feel free to contribute to the project by opening issues, suggesting improvements, or submitting pull requests. Your input is valuable, and together we can enhance the accuracy and scope of the predictive model.
+
+Happy coding and may the odds be ever in your favor!
+
 ## CONCLUSION
 The best models are Logistic Regression with an accuracy of 91% and the Gaussian Naive Bayes Model with an accuracy od 90%.
 
